@@ -547,3 +547,4 @@ function goCareer() {
     alert("Thank you for your interest. We should reach out to you within 24-48 hours, if you have not heard from us by then, please call 800-GET-BEST.")
     window.history.go(-1);
 }
+
